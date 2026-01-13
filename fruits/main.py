@@ -9,3 +9,4 @@ else:
     print("Sorry, that's not on the list. There are only: " + ", ".join(fruits))
     
 print("test1")
+print("test2")
