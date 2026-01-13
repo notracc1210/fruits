@@ -7,3 +7,5 @@ if user_input in fruits:
     print("You chose a popular fruit!")
 else:
     print("Sorry, that's not on the list. There are only: " + ", ".join(fruits))
+    
+print("test1")
