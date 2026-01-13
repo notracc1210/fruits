@@ -1,6 +1,6 @@
 # Fruits
 
-This is a code example for playing with git and GitHub during Wellesley College Upskill Program.
+This is a code example for playing with git and GitHub during Wellesley College 2026 Upskill Program.
 
 ## Contents
 
